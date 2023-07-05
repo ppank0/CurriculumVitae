@@ -1,1 +1,1 @@
-https://ppank0.github.io/Markdown/cv
+https://ppank0.github.io/CurriculumVitae/cv
